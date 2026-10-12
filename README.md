@@ -1,29 +1,24 @@
-🎂 Birthday Wishes App
+🔐 Login & Signup App
 
-A simple and beautiful Birthday Wishes App built with Flutter. This project was created to practice Flutter UI design, screen layouts, navigation, and basic app development.
+A Flutter application built to practice user authentication, form validation, and Firebase integration.
 
 ✨ Features
 
-- 🎉 Birthday Home Screen with a greeting for Abu
-- 💌 Personal Birthday Message Screen
-- 🎁 Birthday Surprise Screen
-- 🎨 Beautiful birthday-themed UI
-- 🖼️ Images and assets
-- 📱 Navigation between screens
-- 😊 Simple and user-friendly design
+- 📝 User signup screen
+- 🔑 User login screen
+- 🔥 Firebase Authentication
+- 📧 Email input validation
+- 🔒 Password validation
+- ✅ Confirm password matching
+- ⚠️ Error messages for invalid input
+- 🏠 Navigation to the home screen
+- 🎨 Simple and user-friendly interface
 
 🛠️ Technologies Used
 
 - Flutter
 - Dart
-
-📚 Concepts Practiced
-
-- Flutter widgets and layouts
-- Navigation between screens
-- Using images and assets
-- Buttons and basic UI design
-- Organizing a Flutter project
+- Firebase Authentication
 
 🚀 Getting Started
 
@@ -35,15 +30,14 @@ A simple and beautiful Birthday Wishes App built with Flutter. This project was 
 flutter pub get
 flutter run
 
+🎯 Purpose
+
+Created to practice Flutter development, Firebase Authentication, form validation, and screen navigation.
+
 🤖 AI Tools
 
-- ChatGPT: Used for learning, understanding code, and debugging assistance.
-- Google Gemini: Used for learning and debugging assistance.
-
-🎯 Project Purpose
-
-This project was created as a learning project to improve my Flutter development skills and gain practical experience in building mobile applications.
+Used ChatGPT and Google Gemini for learning, understanding code, and debugging assistance.
 
 👩‍💻 Author
 
-Created as a Flutter learning project. 
+Created as a Flutter learning project. 💻
